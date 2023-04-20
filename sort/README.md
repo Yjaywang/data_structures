@@ -75,3 +75,10 @@ SOP:
 - create max heap
 - remove largest item
 - place item in sorted partition
+  ![](https://i.imgur.com/9tDPnVn.png)
+  ![](https://i.imgur.com/IryQzSS.png)
+  ![](https://i.imgur.com/XgtyQP6.png)
+- max heap
+  ![](https://i.imgur.com/NXlKquh.png)
+- heapify
+  ![](https://i.imgur.com/rvJkXeQ.png)
