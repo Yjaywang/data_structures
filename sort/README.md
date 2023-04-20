@@ -57,7 +57,9 @@ SOP:
 - Insert the item tin the correct position in arr
 
   ![](https://i.imgur.com/ybvccgX.png)
+
   ![](https://i.imgur.com/iHujpvf.png)
+
   ![](https://i.imgur.com/J07p7WO.png)
 
 4. insertion sort
