@@ -2,22 +2,24 @@
 
 - O(n^2)
   ![](https://i.imgur.com/bOxQM74.png)
+
   ![](https://i.imgur.com/SpXWj9L.png)
+
   ![](https://i.imgur.com/Uqxoka2.png)
+
   ![](https://i.imgur.com/4lQ1CSp.png)
 
 2. quick sort
 
 - worst O(n^2)
 - avg O(nlogn)
-
   pivot:
-
 - correction position in final, sorted array
 - items to the left are smaller
 - items to the right are larger
   how to choose pivot?
   median of three
+
   ![](https://i.imgur.com/lvFa4Uj.png)
 
 SOP:
@@ -51,9 +53,13 @@ SOP:
 - during each iteration, select the smallest item from unsorted partition and move it to the sorted partition
 
 ![](https://i.imgur.com/7bQ9mXK.png)
+
 ![](https://i.imgur.com/ArsU4m4.png)
+
 ![](https://i.imgur.com/USUYL5O.png)
+
 ![](https://i.imgur.com/gxTtOIi.png)
+
 ![](https://i.imgur.com/hILym1J.png)
 
 5. merge sort
@@ -64,7 +70,9 @@ SOP:
 - split arr to individual element
 - sort and merge arr again and again
   ![](https://i.imgur.com/7POORca.png)
+
   ![](https://i.imgur.com/yxZtfHu.png)
+
   ![](https://i.imgur.com/ecqKNfa.png)
 
 6. heap sort
@@ -76,8 +84,11 @@ SOP:
 - remove largest item
 - place item in sorted partition
   ![](https://i.imgur.com/9tDPnVn.png)
+
   ![](https://i.imgur.com/IryQzSS.png)
+
   ![](https://i.imgur.com/XgtyQP6.png)
+
 - max heap
   ![](https://i.imgur.com/NXlKquh.png)
 - heapify
