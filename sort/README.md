@@ -15,11 +15,10 @@
 - worst O(n^2)
 - avg O(nlogn)
   pivot:
-- correction position in final, sorted array
+- correct position in final, sorted array
 - items to the left are smaller
 - items to the right are larger
-  how to choose pivot?
-  median of three
+- how to choose pivot? => median of three
 
   ![](https://i.imgur.com/lvFa4Uj.png)
 
@@ -62,7 +61,7 @@ SOP:
 
   ![](https://i.imgur.com/J07p7WO.png)
 
-4. insertion sort
+4. selection sort
 
 - O(n^2)
 - during each iteration, select the smallest item from unsorted partition and move it to the sorted partition

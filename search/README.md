@@ -13,12 +13,14 @@ final
 ![](https://i.imgur.com/siMdPan.png)
 
 2. breadth first search: for searching a graph
+
    breadth = broad / wide
    queue
 
    ![](https://i.imgur.com/GTGuwpc.png)
 
 3. depth first search: for searching a graph
+
    depth = vertical before horizontal
    stack
 
