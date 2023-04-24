@@ -1,4 +1,6 @@
 hash table: implementation of a dictionary using a hash function
+![](https://i.imgur.com/iamBJ7f.png)
+![](https://i.imgur.com/aicmrVl.png)
 
 hash function
 
