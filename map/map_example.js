@@ -1,4 +1,4 @@
-// ES6 Map
+// ES6 create Map
 let myMap = new Map();
 
 var keyString = "I am string",
@@ -29,3 +29,16 @@ myMap.size; // 3
 
 // map change to array
 [...myMap.values()]; // ["string value", {obj: 1}, ƒ]
+
+//iterate values
+for (let i of myMap.values()) {
+  console.log("value: ", i);
+}
+//iterate keys
+for (let i of myMap.keys()) {
+  console.log("key: ", i);
+}
+// iterate key value
+for (let [key, value] of myMap) {
+  console.log("key value: ", key, value);
+}
